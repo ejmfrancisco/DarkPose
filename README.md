@@ -1,4 +1,4 @@
 # DarkPose
-Dark Pose Estimation
+Dark Pose Estimation for human pose estimation.
 
-! Models are stored locally.
+[!NOTE] Models are stored locally.
